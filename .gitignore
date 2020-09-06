@@ -5,3 +5,4 @@ docker-stack.yml
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /.env
+/cookiecutter-config-file.yml
