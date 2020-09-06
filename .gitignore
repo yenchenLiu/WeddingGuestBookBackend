@@ -1,0 +1,6 @@
+.vscode
+.mypy_cache
+docker-stack.yml
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
